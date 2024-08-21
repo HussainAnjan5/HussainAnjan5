@@ -4,7 +4,7 @@
   <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="HussainAnjan5" />
 </p>
 <h1 align="center">👋 Muhammad Hussain</h1>
-<h3 align="center">🖥️ MERN Stack Developer | 🎓 CS Student</h3>
+<h3 align="center">🖥️ Frontend Developer | MERN Stack Developer | 🎓 CS Student</h3>
 
 <p align="center">
 I'm passionate about building innovative web applications. 
