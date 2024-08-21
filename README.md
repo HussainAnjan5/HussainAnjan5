@@ -1,16 +1,8 @@
 
 
-<style>
-        .centered-image {
-            text-align: center;
-        }
-        .centered-image img {
-            display: inline-block;
-        }
-    </style>
-    <div class="centered-image">
-        <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="HussainAnjan5" />
-    </div>
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="HussainAnjan5" />
+</p>
 <h1 align="center">👋 Muhammad Hussain</h1>
 <h3 align="center">🖥️ MERN Stack Developer | 🎓 CS Student</h3>
 
