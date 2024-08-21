@@ -1,7 +1,7 @@
 
 
 
-  <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif"  align="end" alt="HussainAnjan5" />
+  <img align="center" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif"  align="end" alt="HussainAnjan5" />
 <h1 align="center">👋 Muhammad Hussain</h1>
 <h3 align="center">🖥️ MERN Stack Developer | 🎓 CS Student</h3>
 
