@@ -26,8 +26,8 @@ I'm a dedicated MERN Stack Developer with expertise in MongoDB, Express.js, Reac
 ### 👨‍💻 Projects
 
 - **Visit My Portfolio** - [View Here](https://hussain-portfolio-app.vercel.app/)
-- **Nike Clone** - [View Here](hussain-nike-clone.vercel.app)
-- **3d Portfolio** - [View Here](portfolio-hussain-3d.vercel.app)
+- **Nike Clone** - [View Here](hussain-nike-clone.vercel.app/)
+- **3d Portfolio** - [View Here](portfolio-hussain-3d.vercel.app/)
 
 ---
 
