@@ -1,67 +1,94 @@
-
-![Logo](https://raw.githubusercontent.com/Its-TahmishSadiya16/Its-TahmishSadiya16/main/203690603-726e50ce-2cf6-4b62-82ee-d51ed9100f05.gif)
-
 <p align="center">
-<!--   <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="HussainAnjan5" /> -->
-<!-- ![logo](https://github.com/Its-TahmishSadiya16/Its-TahmishSadiya16/blob/main/203690603-726e50ce-2cf6-4b62-82ee-d51ed9100f05.gif) -->
+  <img src="https://raw.githubusercontent.com/Its-TahmishSadiya16/Its-TahmishSadiya16/main/203690603-726e50ce-2cf6-4b62-82ee-d51ed9100f05.gif" alt="Header Animation" width="100%"/>
 </p>
-<h1 align="center">👋 Muhammad Hussain</h1>
-<h3 align="center">🖥️ Frontend Developer | MERN Stack Developer | 🎓 Computer Science</h3>
+
+<h1 align="center">🌌 Muhammad Hussain</h1>
+<h3 align="center">Frontend Developer | MERN Stack Architect | Code Innovator</h3>
 
 <p align="center">
-I'm a dedicated MERN Stack Developer with expertise in MongoDB, Express.js, React, and Node.js. I build user-friendly, high-performance web applications and excel at simplifying complex problems. Known for strong teamwork and clear communication, I bring innovative ideas to each project, striving to exceed user expectations with efficient, high-quality solutions. 
-<br/>
-  <img src="https://komarev.com/ghpvc/?username=HussainAnjan5&label=Profile%20views&color=0e75b6&style=flat"  align="end" alt="HussainAnjan5" />
+  Welcome to my digital universe! I'm a MERN Stack Developer passionate about crafting immersive, high-performance web applications. With expertise in MongoDB, Express.js, React, and Node.js, I transform ideas into scalable, user-centric solutions. My mission? To blend clean code, neon aesthetics, and innovative design to create experiences that shine.
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=HussainAnjan5&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views"/>
 </p>
 
 ---
 
-### 🚀 Skills and Expertise
+### 🌠 Technical Arsenal
 
-- **MERN Stack**: MongoDB, Express, React, and Node.js
-- **Java programming**
-- **Responsive and scalable web application development**
-- **Clean and efficient coding practices**
-
----
-
-### 👨‍💻 Projects
-
-- **Visit My Portfolio** - [View Here](https://hussain-portfolio-app.vercel.app/)
-- **Nike Clone** - [View Here](https://hussain-nike-clone.vercel.app/)
-- **3d Portfolio** - [View Here](https://portfolio-hussain-3d.vercel.app/)
+| **Category** | **Technologies** |
+|--------------|------------------|
+| **Frontend** | HTML, CSS, Tailwind CSS, JavaScript, React, Vite, Styled Components |
+| **Backend**  | Node.js, Express.js, MongoDB, Firebase |
+| **Languages**| Java, C, C#, Python |
+| **Tools**    | Git, GitHub, VS Code, Postman, Jest, Markdown, Stack Overflow |
+| **Practices**| Responsive Design, Scalable Architecture, Clean Code, Agile Methodologies |
 
 ---
 
-### 🌟 Interests
+### 🚀 Stellar Projects
 
-- Staying up-to-date with the latest tech industry developments
-- Contributing to open-source projects
-- Collaborating with other developers on exciting projects
+- **[Personal Portfolio](https://hussain-portfolio-app.vercel.app/)**  
+  A vibrant, neon-themed portfolio showcasing my skills and projects with smooth animations and responsive design.  
+  *Tech*: React, Tailwind CSS, Vite
+
+- **[Nike Clone](https://hussain-nike-clone.vercel.app/)**  
+  A dynamic e-commerce UI replicating Nike’s sleek design, optimized for performance and user engagement.  
+  *Tech*: React, Tailwind CSS, JavaScript
+
+- **[3D Portfolio](https://portfolio-hussain-3d.vercel.app/)**  
+  An immersive 3D experience built with cutting-edge tech, blending creativity and interactivity.  
+  *Tech*: React, Three.js, Vite
 
 ---
 
-### 📬 Connect with Me
+### 🌌 My Coding Cosmos
 
-<p>
-<a href="https://www.linkedin.com/in/HussainAnjan5/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/HussainAnjan5/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/HussainAnjan5/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/HussainAnjan5/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/anjan._.hussain/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/anjan._.hussain/" height="30" width="40" /></a>
+- **Innovation**: Exploring the latest in web tech to push boundaries and create futuristic solutions.  
+- **Collaboration**: Teaming up with developers to spark creativity and deliver impactful projects.  
+- **Open Source**: Contributing to the global dev community with code, ideas, and inspiration.  
+
+---
+
+### 📡 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/HussainAnjan5/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50"/>
+  </a>
+  <a href="https://www.facebook.com/HussainAnjan5/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="50"/>
+  </a>
+  <a href="https://www.instagram.com/anjan._.hussain/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="50"/>
+  </a>
 </p>
 
 ---
 
-## **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,expressjs,nodejs,mongodb,firebase,java,c,cs,python,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)](#)
+### 💾 Tech Stack Showcase
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,expressjs,nodejs,mongodb,firebase,java,c,cs,python,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=10" alt="Tech Stack"/>
+</p>
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HussainAnjan5&show_icons=true&locale=en&layout=compact" alt="HussainAnjan5" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HussainAnjan5&show_icons=true&locale=en" alt="HussainAnjan5" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HussainAnjan5&" alt="HussainAnjan5" /></p> 
+### 📈 GitHub Galaxy
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&colors=%23FFB3BA,%239F5FEC&height=100&section=footer"/>
-</p> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HussainAnjan5&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HussainAnjan5&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HussainAnjan5&theme=radical" alt="GitHub Streak"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&colors=%23FF69B4,%239F5FEC" alt="Footer Animation"/>
+</p>
