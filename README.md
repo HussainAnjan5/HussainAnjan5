@@ -8,7 +8,7 @@
 <h3 align="center">🖥️ Frontend Developer | MERN Stack Developer | 🎓 Computer Science</h3>
 
 <p align="center">
-I'm a dedicated MERN Stack Developer with expertise in MongoDB, Express.js, React, and Node.js. I build user-friendly, high-performance web applications and excel at simplifying complex problems. Known for strong teamwork and clear communication, I bring innovative ideas to each project, striving to exceed user expectations with efficient, high-quality solutions. 
+A highly motivated frontend developer with 2+ years of experience in the field I am passionate about continuous learning and thrive in collaborative environments. Let's connect and explore potential collaborations in the development. 
 <br/>
   <img src="https://komarev.com/ghpvc/?username=HussainAnjan5&label=Profile%20views&color=0e75b6&style=flat"  align="end" alt="HussainAnjan5" />
 </p>
