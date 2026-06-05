@@ -8,7 +8,7 @@
 <h3 align="center">🖥️ Frontend Developer | MERN Stack Developer | 🎓 Computer Science</h3>
 
 <p align="center">
-A highly motivated frontend developer with 2+ years of experience in the field I am passionate about continuous learning and thrive in collaborative environments. Let's connect and explore potential collaborations in the development. 
+A highly motivated frontend developer with 3+ years of experience in the field I am passionate about continuous learning and thrive in collaborative environments. Let's connect and explore potential collaborations in the development. 
 <br/>
   <img src="https://komarev.com/ghpvc/?username=HussainAnjan5&label=Profile%20views&color=0e75b6&style=flat"  align="end" alt="HussainAnjan5" />
 </p>
